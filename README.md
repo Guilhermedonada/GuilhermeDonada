@@ -5,10 +5,12 @@
 Technologies
 
 
-Front end     | Back end      | Data base
-------------- | ------------- | -------------
-HTML5        | Node          | MySQL
-CSS3          | PHP   | MongoDB
-JavaScript    |   | 
+Front end     | Back end      | Data base     | Others
+------------- | ------------- | ------------- | -------------
+HTML5        | Node          | MySQL      | Git
+CSS3          | PHP   | MongoDB | Bitbucket
+JavaScript    |   | | Scrum
 React        |   |
 Adobe XD |   |
+Bootstrap |   |
+Jquery |   |
