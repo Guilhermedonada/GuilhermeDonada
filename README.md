@@ -2,7 +2,7 @@
 
 ❕ Currently working as a front end developer
 
-💾 Technologies
+Technologies
 
 
 Front end     | Back end      | Data base
