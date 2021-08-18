@@ -10,7 +10,7 @@ Front end     | Back end      | Data base     | Others
 HTML5        | Node          | MySQL      | Git
 CSS3          | PHP   | MongoDB | Bitbucket
 JavaScript    |   | | Scrum
-React        |   |
+React        |   ||Jira
 Adobe XD |   |
 Bootstrap |   |
 Jquery |   |
